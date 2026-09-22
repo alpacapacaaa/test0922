@@ -1,0 +1,11 @@
+{
+  "name": "inhack-week1-demo",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.2"
+  }
+}
